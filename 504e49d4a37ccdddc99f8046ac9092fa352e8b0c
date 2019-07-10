@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ab06636c_4faafb25",
+        "filename": "src/hw_detector/hw_ipmi_lib.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 187
+      },
+      "writtenOn": "2019-07-10T14:24:56Z",
+      "side": 1,
+      "message": "this would still use the ADMINISTRATOR privilege level as far as I can see this is only invoked from the cli with the local argument so it is probably won\u0027t cause deployment problems",
+      "range": {
+        "startLine": 37,
+        "startChar": 4,
+        "endLine": 37,
+        "endChar": 44
+      },
+      "revId": "504e49d4a37ccdddc99f8046ac9092fa352e8b0c",
+      "serverId": "4cada01b-0314-4fe0-84a1-f9ddc89863f9",
+      "unresolved": true
+    }
+  ]
+}
