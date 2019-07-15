@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "51df6960_3a94aba3",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 186
+      },
+      "writtenOn": "2019-07-15T07:46:59Z",
+      "side": 1,
+      "message": "Gerrit can handle it: https://www.mediawiki.org/wiki/Gerrit/Advanced_usage#Cross-project_dependencies",
+      "parentUuid": "65c2b3c7_aab0728c",
+      "range": {
+        "startLine": 16,
+        "startChar": 30,
+        "endLine": 16,
+        "endChar": 34
+      },
+      "revId": "504e49d4a37ccdddc99f8046ac9092fa352e8b0c",
+      "serverId": "4cada01b-0314-4fe0-84a1-f9ddc89863f9",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "ab06636c_4faafb25",
         "filename": "src/hw_detector/hw_ipmi_lib.py",
         "patchSetId": 1
