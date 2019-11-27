@@ -14,7 +14,7 @@
 
 Name:           hw-detector
 Version:        %{_version}
-Release:        2%{?dist}
+Release:        3%{?dist}
 Summary:        Hardware detector
 Group:          Nokia
 License:        %{_platform_licence}
@@ -22,7 +22,7 @@ Source0:        %{name}-%{version}.tar.gz
 BuildArch:      noarch
 Vendor:         %{_platform_vendor}
 
-Requires: python 
+Requires: python
 BuildRequires: python
 BuildRequires: python-setuptools
 
