@@ -14,7 +14,7 @@
 
 Name:           hw-detector
 Version:        %{_version}
-Release:        3%{?dist}
+Release:        4%{?dist}
 Summary:        Hardware detector
 Group:          Nokia
 License:        %{_platform_licence}
